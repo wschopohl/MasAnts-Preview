@@ -7,10 +7,10 @@ Berg, Nickolay, Russo, Schopohl, Weber
 In diesem Repository haben wir die Vorabversionen unserer Ausarbeitung, Simulation und dem Vortrag zusammengefasst.
 
 ### Ausarbeitung
-Eine Vorabversion der Ausarbeitung als PDF befindet sich im Ordner *01-ausarbeitung* oder direkt [hier zum download]().
+Eine Vorabversion der Ausarbeitung als PDF befindet sich im Ordner *01-ausarbeitung* oder direkt [hier zum download](https://raw.github.com/wschopohl/MasAnts-Preview/master/01-ausarbeitung/MAS-Ants-Ausarbeitung.pdf).
 
 ### Präsentation
-Die Vorschau unserer Präsentation enthält nur Standbilder, wird aber in der Endversion aus vielen Videos und einigen Live Vorführungen unserer Simulation bestehen. Sie befindet sich im Ordner *02-vortrag* oder direkt [hier zum download](https://raw.githubusercontent.com/wschopohl/MasAnts-Preview/master/02-vortrag/MAS-Presentation-Preview.pdf).
+Die Vorschau unserer Präsentation enthält nur Standbilder, wird aber in der Endversion aus vielen Videos und einigen Live Vorführungen unserer Simulation bestehen. Sie befindet sich im Ordner *02-vortrag* oder direkt [hier zum download](https://raw.github.com/wschopohl/MasAnts-Preview/master/02-vortrag/MAS-Ants-Presentation-Preview.pdf).
 
 Zusätzlich ist hier eine [Liste von Vorschau Videos unserer Simulation](https://github.com/wschopohl/MasAnts-Preview/blob/master/02-vortrag/Videos.md)
 
