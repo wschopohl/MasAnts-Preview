@@ -1,5 +1,8 @@
 # Multi Agent Systems (MAS)
-Simulation einer Ameisenkolonie
+## Simulation einer Ameisenkolonie
+Berg, Nickolay, Russo, Schopohl, Weber
+
+---
 
 In diesem Repository haben wir die Vorabversionen unserer Ausarbeitung, Simulation und dem Vortrag zusammengefasst.
 
